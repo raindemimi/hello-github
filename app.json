@@ -1,7 +1,6 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -9,5 +8,12 @@
     "navigationBarTitleText": "腾讯地图",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  
+  "plugins":{
+    "myPlugin":{
+      "version":"1.0.6",
+      "provider":"wx5bc2ac602a747594"
+    }
+  }
 }

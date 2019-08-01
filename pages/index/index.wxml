@@ -1,3 +1,5 @@
 <view>
-  <map-route route-info="{{routeInfo}}"></map-route>
+<view>
+<map-route route-info="{{routeInfo}}"></map-route>
+</view>
 </view>
